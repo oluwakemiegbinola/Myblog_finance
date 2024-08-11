@@ -1,1 +1,1 @@
-# Myblog_finance
+# Myblog_finance learning about financial analysis
